@@ -7,11 +7,14 @@
 Скриншоты графиков приложить.
 Ответ:
 исходный код в файле ```filtr_low_frequency.m```
-Первая фунцкия
+
+## Первая фунцкия
 ![function1](https://github.com/1337nemojj/testtask/assets/36542035/5b6fa044-66eb-4e37-93d2-58d3ebc9907d)
-Вторая функция
+
+## Вторая функция
 ![function2](https://github.com/1337nemojj/testtask/assets/36542035/4504f34c-088c-47a3-b56f-3662c457a19b)
-Третья функция
+
+## Третья функция
 ![function3](https://github.com/1337nemojj/testtask/assets/36542035/571e14e5-ae1f-48a5-ac85-fd7c59772b6f)
 
 * 2 задание
@@ -34,4 +37,5 @@
 Ответ:
 исходный код в файле ```rdm_iri.m```
 Координаты ИРИ: (1989.6904, 4009.3865)
-![position_plot](https://github.com/1337nemojj/testtask/assets/36542035/b0390180-4ef0-4eab-b203-dcbb33cec44a)
+
+## ![position_plot](https://github.com/1337nemojj/testtask/assets/36542035/b0390180-4ef0-4eab-b203-dcbb33cec44a)
